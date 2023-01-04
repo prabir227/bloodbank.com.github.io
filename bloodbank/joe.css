@@ -1,0 +1,201 @@
+.reasons{
+    height: 395px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 60px;
+    padding-top: 60px;
+    margin: 10px;
+    float: left;
+    background-color: #101820FF;
+    color:white ;
+    }
+    .img{
+    height: 403px;
+    width: 39%;
+    margin: 0%;
+    margin-left: 5px;
+    padding: 0px;
+    padding-top: 10px;
+    float: right;
+    object-fit: cover;
+    position: relative;
+    top: 450px;
+    }
+    .jpg{ height: 403px;
+    width: 39%;
+    margin: 0%;
+    padding: 0px;
+    padding-top: 10px;
+    float: right;
+    object-fit: cover;
+    position: relative;
+    top: 420px;
+    }
+    .png{
+    height: 533px;
+    width: 39%;
+    margin: 0%;
+    padding: 0px;
+    padding-top: 10px;
+    float: right;
+    object-fit: cover;
+    position: relative;
+    top: 1000px;
+    }
+    .lng{
+    height: 300px;
+    width: 39%;
+    margin: 0%;
+    padding: 0px;
+    padding-top: 10px;
+    float: right;
+    object-fit: cover;
+    position: relative;
+    top: 1500px;
+    }
+    .weight{
+    height: 350px;
+    width: 55%;
+    padding: 5px;
+    padding-bottom: 0px;
+    padding-left: 50px;
+    padding-top: 80px;
+    margin: 10px;
+    float: left;
+    
+    color: #212121;
+    background-color: #FF4545;
+    position: relative;
+    top: 395px;
+    }
+    
+    .hlth{
+    height: 450px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 10px;
+    padding-top: 60px;
+    margin: 10px;
+    float: left;
+    background-color: #101820FF;
+    color:white ;
+    position: relative;
+    top: 800px;
+    }
+    .trvl{
+    height: 300px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 60px;
+    padding-top: 15px;
+    margin: 10px;
+    float: left;
+    color: #212121;
+    background-color: #FF4545;
+    position: relative;
+    top: 800px;
+    }
+    .pab{
+    height: 350px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 60px;
+    padding-top: 70px;
+    padding-right: 10px;
+    margin: 10px;
+    float: left;
+    background-color: #101820FF;
+    color:white ;
+    position: relative;
+    top: 1160px;
+    }
+    .mied{
+    height: 395px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 40px;
+    padding-top: 50px;
+    margin: 10px;
+    float: left;
+    background-color: #101820FF;
+    color:white ;
+    position: relative;
+    top: 2450px;
+    }
+    .behvr{
+    height: 395px;
+    width: 55%;
+    padding: 0px;
+    padding-left: 60px;
+    padding-top: 80px;
+    margin: 10px;
+    float: left;
+    color: #212121;
+    background-color: #FF4545;
+    position: relative;
+    top: 2430px;
+    }
+    body{
+    font-size: x-large;
+    }
+    div{
+    padding: 20px;
+    border: none;
+    border-radius: 28% 10%;
+    }
+    img{
+    border-radius: 15% 25%;
+    }
+    .hdg{
+    font-family: Arial;
+    text-shadow: white;
+    text-shadow: 2px 5px 5px red;
+    
+    }
+    .but{
+    padding:20px;
+    padding-left: 40px;
+    padding-right: 40px;
+    font-size: medium;
+    border-radius: 20px;
+    
+    }
+    .rgsr{
+    padding:20px;
+    padding-left: 40px;
+    padding-right:40px;
+    font-size:medium;
+    border-radius: 20px;
+    }
+    .ctus{
+    padding:20px;
+    padding-left: 40px;
+    padding-right:40px;
+    font-size:medium;
+    border-radius: 20px;
+    }
+    .but:hover {
+    background-color: pink;
+    cursor: pointer;
+    }
+    .ctus:hover{
+    background-color: pink;
+    cursor: pointer;
+    }
+    .rgsr:hover{
+    background-color: pink;
+    cursor: pointer;
+    }
+    .jfig{
+        height: 403px;
+        width: 39%;
+        margin: 0%;
+        margin-left: 5px;
+        padding: 0px;
+        padding-top: 0px;
+        float: right;
+        object-fit: cover;
+        position: absolute;
+        top: 396px;
+        
+    }

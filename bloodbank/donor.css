@@ -1,0 +1,37 @@
+body {
+    margin: 0px;
+    padding: 0px;
+    font-family: sans-serif;
+}
+
+.hdg{text-align: center;
+text-shadow: 1px 1px 1px red;}
+
+
+div.first{display: flex;
+box-sizing: border-box;
+margin: 100px 50px;
+padding: ;
+border: 2px solid black;
+box-shadow: 1px 1px 1px 1px rgb(66, 64, 64);
+border-radius: 10px;
+background-color: rgb(173, 217, 226);}
+div.first:hover{
+    box-shadow: 3px 3px 3px 3px rgb(66,64,64);
+}
+
+
+.text{width: 50%;
+float: left;
+margin: 10px;}
+
+
+img{width: 50%;
+border-top-right-radius: 10px;
+border-bottom-right-radius: 10px;}
+img{
+    height: 400px;
+}
+li,p,ul{
+    font-size: 20px;
+}

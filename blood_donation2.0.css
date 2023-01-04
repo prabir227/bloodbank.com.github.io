@@ -1,0 +1,217 @@
+        body {
+            margin: 0px;
+            padding: 0px;
+
+        }
+
+        .header {
+            background-image: url('bloodbank/head_image2.jpg');
+
+            background-size: cover;
+            background-position: center;
+        }
+
+        .header div {
+            height: 600px;
+        }
+
+        .nav {
+            list-style: none;
+
+            display: inline-block;
+
+            color: aliceblue;
+
+
+        }
+
+        .nav li {
+            float: left;
+            margin-left:20px;
+            margin-top: 10px;
+            padding-left: 20px;
+        }
+
+        .nav li a {
+            text-decoration: none;
+            color: aliceblue;
+            font-size: larger;
+            font-weight: bold;
+            font-family: Balsamiq Sans;
+        }
+
+        .tab thead th {
+            text-align: center;
+        }
+
+        .tab {
+            border: 2px solid white;
+            padding: 20px;
+            margin-left: 130px;
+            border-radius: 20px;
+            background-color: rgb(59, 59, 195);
+            font-size: larger;
+        }
+
+        .nav li a:hover {
+            text-decoration: underline;
+            color:aqua;
+        }
+
+        #logo {
+            height: 100px;
+            width: 100px;
+            mix-blend-mode: multiply;
+        }
+
+        #wdb {
+            border-radius: 20px;
+            width: fit-content;
+        }
+
+        .div_main {
+
+            display: flex;
+            margin-top: 20px;
+
+        }
+
+        .div1 {
+
+            display: inline;
+            width: 50%;
+            padding-top: 100px;
+        }
+
+        .div2 {
+            width: 60%;
+            margin-left: 200px;
+        }
+
+        .div1 h1 {
+            text-align: center;
+            text-decoration: underline;
+            color: red;
+        }
+
+        .div1 p {
+            text-align: center;
+            margin: 40px;
+            font-size: larger;
+        }
+
+        .div_main2 {
+            display: flex;
+        }
+
+        .process {
+            margin: 0px 20px;
+        }
+
+        .process img {
+            width: 300px;
+            height: 250px;
+            margin: 20px;
+            border-radius: 20px;
+        }
+
+        #process {
+            display: block;
+            width: 100%;
+            text-align: center;
+            color: red;
+            text-decoration: underline;
+            margin-top: 30px;
+        }
+
+        .process h2 {
+            text-align: center;
+            text-decoration: underline;
+            color: red;
+        }
+
+        .process p {
+            text-align: center;
+        }
+
+        #form {
+            display: flex;
+
+
+        }
+
+        #vid {
+
+            border-radius: 15px;
+            margin: 30px;
+            margin-left: 10px;
+        }
+
+        #fdiv1 {
+            border-radius: 20px;
+            width: 50%;
+            margin: 30px 150px;
+            box-shadow: 3px 3px 10px rgb(224, 199, 199);
+
+        }
+
+        #fh {
+            text-align: center;
+            text-decoration: underline;
+            color: red;
+        }
+
+        .finp {
+            width: 300px;
+            height: 40px;
+            border: 2px solid black;
+            border-radius: 15px;
+            margin-top: 20px
+        }
+
+        .fdiv {
+            display: inline;
+            text-align: center;
+        }
+
+        #finp {
+            margin-top: 20px;
+            width: 250px;
+            height: 35px;
+            border-radius: 15px;
+            background-color: red;
+            color: aliceblue;
+            font-size: medium;
+            margin-left: 30px;
+        }
+
+        #finp:hover {
+            background-color: rgb(248, 75, 75);
+        }
+
+        body {
+            font-family: Arial, Helvetica, sans-serif;
+        }
+
+        #age {
+            margin-left: 60px;
+            padding-left: 110px;
+            padding-right: 110px;
+            text-align: center;
+        }
+
+        #agepic {
+            margin-left: 110px;
+            border-radius: 30px;
+            box-shadow: 3px 3px 10px rgb(224, 199, 199);
+        }
+        .mainfoot{
+            background-color:rgb(240, 44, 44); 
+            height:400px;
+            display:flex;
+            color:white;
+        }
+        .foot{
+            width:250px;
+            margin:40px auto;
+        }

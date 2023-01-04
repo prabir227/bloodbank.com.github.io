@@ -1,0 +1,87 @@
+html {
+    margin: 0;
+    padding: 0;
+    font-family: sans-serif;
+    background-image: url(new/handre.jpg);
+    background-size: 100%;
+    background-position: center;
+    background-repeat: no-repeat;
+    height: 90%;
+}
+.box h1 {
+    color: #1c8adb;
+    margin-top: 20px;
+    margin-bottom: 30px;
+    margin-left: -20px;
+    background-color: #fff;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    /* box-shadow: -3px 5px 5px rgb(0 0 0 / 30%); */
+    padding: 5px;
+    width: 380px;
+}
+
+.box {
+    width: 350px;
+    box-shadow: 5px 5px 5px 5px rgba(0, 0, 0, 0.3);
+    padding: 20px;
+    margin: 4% auto 0;
+    text-align: center;
+    border-radius: 15px;
+}
+
+input.in {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    width: 300px;
+    border: 1px solid #999;
+    outline: none;
+    float: center;
+}
+
+#state {
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px 10px 10px 10px;
+    width: 320px;
+    border: 1px solid #999;
+    outline: none;
+    float: center;
+    font-size: 12px;
+}
+
+.city {
+    width: 320px;
+    border-radius: 20px;
+    padding: 10px;
+    margin: 10px;
+    border: 1px solid #999;
+    outline: none;
+    float: center;
+    font-size: 13px;
+}
+
+div.center {
+    padding: auto;
+    margin: 10px auto;
+}
+
+button {
+    color: #fff;
+    width: 200px;
+    padding: 10px;
+    border-radius: 20px;
+    font-size: 15px;
+    margin: 15px 0;
+    border: none;
+    outline: none;
+    cursor: pointer;
+    background-color: #1c8adb;
+}
+select{
+    color: gray;
+}
+img{
+    width: 70px;
+    margin-top: -60px;
+}
